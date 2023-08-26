@@ -1,0 +1,1264 @@
+{
+  "contents": [
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 4136,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/izvodnnCvt0/mqdefault_6s.webp?du=3000&sqp=CNSyqacG&rs=AOn4CLD_7lbk8PBLZNgFrV8VlbVNp2sTmA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "3 weeks ago",
+        "stats": {
+          "views": 53
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCcHFEFkBC_SiSvKUkmkvjKnCYzOA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQaM6nZpCvuIoDPMhrGTyhA02X0A",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAsm1NkTZfKeF2HnmzCVPTdnSmqeg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAIRAwsqBGiL2SiwdKlFQYmuTFqag",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part22",
+        "videoId": "izvodnnCvt0"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 200,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/P7nwKpy_C8E/mqdefault_6s.webp?du=3000&sqp=CKDLqacG&rs=AOn4CLCkdtL75VC9Vav07Luj-Wyvi_6ZHQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 14
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgXShlMA8=&rs=AOn4CLC5ESGtxsBpWWz1GiC2gt82BG1rzw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgXShlMA8=&rs=AOn4CLDucO3-5J5LTz-tfRvtv2ThE7jaMQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIF0oZTAP&rs=AOn4CLAbyTskYRy2g86eYVi2c5FkFFH2lQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIF0oZTAP&rs=AOn4CLBuMG2NIsxV53Z_PIPNjtLACqsSSw",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part21 Continue",
+        "videoId": "P7nwKpy_C8E"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 2235,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/E6WrPNFH7Nw/mqdefault_6s.webp?du=3000&sqp=CICsqacG&rs=AOn4CLDlPFeBgmGygsgAWKQe4qPHcL9YVA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 16
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLD2JERd6oJWbfmcF8Utf9V3znRWHg",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLDtqP9q0jipKteEaybO8tBMSiAQYA",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLAAIFQepEfWARwCxikorEOVKiBf_w",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLBjOfF61jldsTVJp7WhR5CAu0YUgA",
+            "width": 336
+          }
+        ],
+        "title": "WebApiNetCore Part21",
+        "videoId": "E6WrPNFH7Nw"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 3430,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/rQsgjvsnqbQ/mqdefault_6s.webp?du=3000&sqp=CNi4qacG&rs=AOn4CLCFFNxN_pePQFWx1l1LW5R6DNxVlA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 42
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLA8YURIAZLtPf7822lO05cNqqNSQA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLDxFDXd_3knzb8b2WgQTrsHKodSjw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLBwYF0gsVxt07qC3ZpgkGz_XiuF5w",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLCeIQ8dVgFzg2wnAV3W6PMU7RUchw",
+            "width": 336
+          }
+        ],
+        "title": "Clase 24072023",
+        "videoId": "rQsgjvsnqbQ"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 1473,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/znYqquFE1To/mqdefault_6s.webp?du=3000&sqp=CNrKqacG&rs=AOn4CLDh_ze1VpCOvAC9sw1lB2AtnrnS6w",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 38
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihKMA8=&rs=AOn4CLBMVwCJ3kEXieT1gQdEvPddyjes3Q",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihKMA8=&rs=AOn4CLBmGxJHQg5W_CLxRfgtk3yS_I0qcQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoSjAP&rs=AOn4CLBhy0y09tiopfgBUa84egdib_0IAg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoSjAP&rs=AOn4CLDq7g7sNXtSpjcvxm_m87q-L5XJQA",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part19",
+        "videoId": "znYqquFE1To"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 715,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/qQCFGKhLk9E/mqdefault_6s.webp?du=3000&sqp=CJ_AqacG&rs=AOn4CLA4NS5KvS5vXhy8r_hqWWP4g49J4w",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 40
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLA_ZOdvxnV5ui3qdycHLud1J60EUg",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLDi0RchQBB6fyGXdLbm19FXGOqdqg",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLCBNh9g1IQ54UJHT0UPqr449XcNRA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLBFf4F6hvU3IN9bepyOKlaIkFITCQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part18",
+        "videoId": "qQCFGKhLk9E"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 2118,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/Kgn6HTq3uws/mqdefault_6s.webp?du=3000&sqp=CM6rqacG&rs=AOn4CLAyNSceUwx_h4O0-4kmbVyvuIrCYw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 49
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAk_NlAF7cIUk_HcRmmod3U92skIw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDuda2mI2eXOqdSnUGfdzDQ2IWlUw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC53vxWGDINysOqO7CJ5BSm1a8dtw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDj3PpMQSQUgfNg-_0eotm2mRkCWA",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part17",
+        "videoId": "Kgn6HTq3uws"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 619,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/onrQYHjX2y4/mqdefault_6s.webp?du=3000&sqp=CNrKqacG&rs=AOn4CLBrovxbmzUEFzhZBf3Er5Tzr9R22g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 43
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDkgXShyMA8=&rs=AOn4CLA0mnPwUyeWFwFXcAIKK5psx0wtxw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDkgXShyMA8=&rs=AOn4CLC-zmj96Lx89Ql0A66s60UXlFzZfA",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IF0ocjAP&rs=AOn4CLDDSD0s53RyV2uMMvl8m5DtD7WxPQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IF0ocjAP&rs=AOn4CLDDSSMeWrWmXsKYsXnQi3zEWWjFZQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part16",
+        "videoId": "onrQYHjX2y4"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 604,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/VZ3WOdOob54/mqdefault_6s.webp?du=3000&sqp=CObAqacG&rs=AOn4CLDzC6tUYoHBXShTeefx6djwa1bNUg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 46
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkCIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLAenQ4ZXrJF_UShIt6n7-BzqU3uqA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkCIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLCsMNZDCjTHpRlT4uuamrjPJT5d-Q",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB5AiAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLBsDgiuhZEBEHZFRNsI8vBoE2eu8g",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB5AiAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLATslzTHqX9-cVI9mk2SV5tTA_MbQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part15",
+        "videoId": "VZ3WOdOob54"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 918,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/vOTdcAjICw8/mqdefault_6s.webp?du=3000&sqp=CPu-qacG&rs=AOn4CLCouQuU4CUtK3KUB4difLZ1_78yHg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 81
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBi1q0F7KVPmqguR4qFNGmebnBURg",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLB_OZFVW5TkEE31hh7VBLZGi5NNxw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLC4i0VBbh9Y0BB--Ec1HFFg0Jnbcg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLB3WJ5215RNr3to0gHnpfabe6ecSw",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part14",
+        "videoId": "vOTdcAjICw8"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 1733,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/gp-xeqYHCqo/mqdefault_6s.webp?du=3000&sqp=CL6zqacG&rs=AOn4CLA3DSdUrH86hnQjuB9sP2teOjYFCw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 106
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBDtrn6cMiuDpWM7VLjXHZjk2CpUw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBZfO6Lrd9Qeqdv3yv6VtjD14rT0Q",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLCg6sjRt_Rd2Ea31isB8KYjJw6MaA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLCnhc9Y0qdlFOo-LjZj3r0kMQLqYg",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part13",
+        "videoId": "gp-xeqYHCqo"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 129,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/cIPzhbetRNE/mqdefault_6s.webp?du=3000&sqp=COHIqacG&rs=AOn4CLAw5jk4XU_Rcdx7sHxQEvM4sx9W0Q",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 61
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGEEgWChlMA8=&rs=AOn4CLC9qYwgaU-qT5aaBvySCIxQPQQnKw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGEEgWChlMA8=&rs=AOn4CLC5gClJs7CxqmUuCNmWIcU9CaifNA",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARhBIFgoZTAP&rs=AOn4CLBCP97svYMQ2ZlsSWo8FWKEd9qHvA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARhBIFgoZTAP&rs=AOn4CLB2lkCwwPJ4p04ZpfT_OVPerjBmVQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part12",
+        "videoId": "cIPzhbetRNE"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 1806,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/5-YE12fHmJw/mqdefault_6s.webp?du=3000&sqp=CKinqacG&rs=AOn4CLCAUlZW156BnlZNA0-pZeQJX2nCbg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 65
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLA31-l9fkb-vSs6v_0FLc0JokkEuA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLBhdXUGjkiXdSn56Ho3nL3IuZytQQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLDJphn7_-WvONNn6axHOyGCMqK3vw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLBZLKn_sRc9z5mjNfdxT7ipuYsbIQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part11",
+        "videoId": "5-YE12fHmJw"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 1552,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/-ZDgEaWx4dA/mqdefault_6s.webp?du=3000&sqp=COCyqacG&rs=AOn4CLDV1DGMIA5casLylNlk0G-THgsGlg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 43
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWShlMA8=&rs=AOn4CLChP0AShGOpmpb9Wma5PiR3V5YGjw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWShlMA8=&rs=AOn4CLBSy4IpOmuj8p15S04tURKvb5B9qw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFkoZTAP&rs=AOn4CLAi_6SgX4Z-Xx84f6pwgjNHQ7bDVg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFkoZTAP&rs=AOn4CLCFZKceIx4L0doRUbGizgxx0oXqKw",
+            "width": 336
+          }
+        ],
+        "title": "Repaso Archivos",
+        "videoId": "-ZDgEaWx4dA"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 536,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/yaI-lQhPv8s/mqdefault_6s.webp?du=3000&sqp=COiqqacG&rs=AOn4CLCliAqns6hAZ5g0oTwdBGTE363eoA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 72
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLBauMQ9Y5h5QQKSBiqhcoTnmJg83Q",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLB-f_uln4fDR9TmvweG9IuIhebHZg",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLC4MPkb8q0pA-ItvAy8UI9nXZ14wQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLBD2hoUtRXFFJ2VKjiNWTD1YKEj7Q",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part10",
+        "videoId": "yaI-lQhPv8s"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 841,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/kMdAGzjYzQg/mqdefault_6s.webp?du=3000&sqp=CKCUqacG&rs=AOn4CLAGImfQnXOcEQgAT3tLd0ZhgHOlig",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 114
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLCC_Traf0NcDqW_pR9YBJnzQZ5pkQ",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLAKurfl3iCtqsqSvUo62ZqySbfuPQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLDXLIPqUSOIv_6YqKMSbGZ0q_z0Sw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLB9lyY2dfP0WXRRus0wvnCphlWPmw",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part09",
+        "videoId": "kMdAGzjYzQg"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 324,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/Tt3nGr-oCSM/mqdefault_6s.webp?du=3000&sqp=CN7CqacG&rs=AOn4CLCxbasoQoptSqDzH4WRgbwFGk97Qw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 56
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLDzMtGrKnUSXOEl63f3WSxDn5bYiA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLBfPurhIXgBi2Qo-IzGaTzBLMFJUQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLD_no06eeRgbZdRY0LsLUi1d4cnhQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLAEunqWStfIbXf1I9NGaRna2nFzLQ",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part08",
+        "videoId": "Tt3nGr-oCSM"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 537,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 99
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gZShkMA8=&rs=AOn4CLCMnRfJjCZh1ZQFJ1FqQkqhToo4IA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gZShkMA8=&rs=AOn4CLCc3lseutVgA5T7KydHR349c6a8LQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoZDAP&rs=AOn4CLBO0rVPwBaLdw4N_vH09ehQ9niTWA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoZDAP&rs=AOn4CLBG01rA2aQLRQ5vr8viDWkRs3iSsw",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part07",
+        "videoId": "B5CBJesU_xg"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 2778,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/u3ycnpXyUrU/mqdefault_6s.webp?du=3000&sqp=CMu9qacG&rs=AOn4CLDAXRB5BlJKrb_oyR-LNt85Y4cb5Q",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 68
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLAGcmeUKGKxXv9WMa9Uq1vXYwHntQ",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLCYITAtItCyx6A2ubVq7B4I85laPg",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLActyPIkn9g4ObleSibAxyX8ApFzw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLBaQZtiLrJSjTOv-CdJGSazYjzkvw",
+            "width": 336
+          }
+        ],
+        "title": "Ferreteria App Part03",
+        "videoId": "u3ycnpXyUrU"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 740,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/GpM75ODizek/mqdefault_6s.webp?du=3000&sqp=CIu_qacG&rs=AOn4CLDHFmfD0n3dqEkIIVguNoyqugAnSg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 46
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLAoVpJZ6zu2_9mSIvovhIem5VLmQA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLCPTeuZjsgCoRyLfMrfl0l4RenXxw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFgoTzAP&rs=AOn4CLDWCU65vL6WBEUcqrDso47Fbj-EfQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFgoTzAP&rs=AOn4CLAhwIjPEj5v72bEt5kj5YTyYffcmw",
+            "width": 336
+          }
+        ],
+        "title": "WebApi NetCore Part06",
+        "videoId": "GpM75ODizek"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 1276,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/KbjH5FG5SgY/mqdefault_6s.webp?du=3000&sqp=CLCaqacG&rs=AOn4CLB6-sb1B7eyP_C60fEgIUJG9e_F5g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 70
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gXShyMA8=&rs=AOn4CLB-pBalXABf2X_nzMDTLuSS9DEx2A",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gXShyMA8=&rs=AOn4CLARS0KhmMjEe-5Virgm9QMUuc_w4A",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IF0ocjAP&rs=AOn4CLAYM1M3-obec2HBMqYcXISydYrWcA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IF0ocjAP&rs=AOn4CLAumPqhgjqj919m3MDaFtnaA9ilkA",
+            "width": 336
+          }
+        ],
+        "title": "Web ApiNetCore Part05",
+        "videoId": "KbjH5FG5SgY"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 528,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 59
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLAETJ768gXz0aSAXmk72fV6KTqnYA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBlJMTBRdQhleN8v9Q-5OmY066DXA",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLDoFDdNMqqH0sy-7KtTvrFykgkX4g",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLD_CfuLkIyJkbaCTpSNzGm1J9SiRQ",
+            "width": 336
+          }
+        ],
+        "title": "Web ApiNetCore Part04",
+        "videoId": "5uNq04iPmDg"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 605,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/sG6i5lk24FA/mqdefault_6s.webp?du=3000&sqp=CMCnqacG&rs=AOn4CLA66AVmuW851ey7pT6UMUyoh_Ghug",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 67
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLDon0up4jjjCrgju1O5pw_u7i2P6A",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLDpTs7yq0MYUxZEzrQwGQVvEXKRJQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLDhRE-5wxdPPk8oDKn6trEed-0brA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLAaxqnvfHT_wIJvPkWVXvwY2speeA",
+            "width": 336
+          }
+        ],
+        "title": "Web ApiNetCore Part03",
+        "videoId": "sG6i5lk24FA"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 370,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 82
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFYgZShPMA8=&rs=AOn4CLCPcuyudFqaH-zAfzQA4Bwzs7edKQ",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFYgZShPMA8=&rs=AOn4CLC8z_VWCQ7_POeBuGL58voIZy1bAA",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoTzAP&rs=AOn4CLDlb7Cb9-vEqriNKZMqOSbZ6gK33g",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoTzAP&rs=AOn4CLDnm7cAlt9z0pRSqag36YG-8C88Fg",
+            "width": 336
+          }
+        ],
+        "title": "Web ApiNetCore Part02",
+        "videoId": "kw6SHS7sMh8"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 720,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/S5QOJ_4ZQ80/mqdefault_6s.webp?du=3000&sqp=CKrLqacG&rs=AOn4CLCY-P-XmjTpLmIOpkO31OEwhMB82g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 103
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLDK3Cf_yNC7CCxtCTzPdGAiuAUmvg",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLCIDrqdixnF0rBDB8uv3pB0liNvOg",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFsoZTAP&rs=AOn4CLDpCoPaoSSQtAQ5Cj_0EF-MuQ_9sg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFsoZTAP&rs=AOn4CLA2QyAv9rkZ0PW_Ys14gS4CBInSpA",
+            "width": 336
+          }
+        ],
+        "title": "Web ApiNetCore Part01",
+        "videoId": "S5QOJ_4ZQ80"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 4009,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/pz3kEz16SaQ/mqdefault_6s.webp?du=3000&sqp=COiuqacG&rs=AOn4CLDJPD2a_L5sA0ZohqufUstUN_XnAQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 51
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLAGp34Bi9ZOM8H9JdoAT5f5ks14RA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCDq5IA2XukaFgNnVmUfLIbyBWx6w",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6EPDccWTxA0fWLiOI46S5UUriA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLDgn7jnoNa59_QYPrQFHFlo3gGcOw",
+            "width": 336
+          }
+        ],
+        "title": "Taller git y Archivos python part 01",
+        "videoId": "pz3kEz16SaQ"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 5263,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/uGaWTn4hb5k/mqdefault_6s.webp?du=3000&sqp=CIGhqacG&rs=AOn4CLAXHrGNbAKe2yz70DKOZRiWLKAZ3Q",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 30
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgYChlMA8=&rs=AOn4CLCPDIiV7MFKEGUFtkX5Rh9Q9WN8uA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgYChlMA8=&rs=AOn4CLC0GyiB6K94jhfirwkKxM-x7r1cBw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIGAoZTAP&rs=AOn4CLB39hkQSlAttmdfG69J7wV3SyS6Nw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIGAoZTAP&rs=AOn4CLDvAnHs0D55UhVoO4JF1n1N4D3n_w",
+            "width": 336
+          }
+        ],
+        "title": "Archivos Python 02",
+        "videoId": "uGaWTn4hb5k"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 5367,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 34
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gXyhyMA8=&rs=AOn4CLBB12xfaL5BtvQxycRpusU634pDWA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gXyhyMA8=&rs=AOn4CLCLll2cy0a2tmQATBj1RFz9xAV1zQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IF8ocjAP&rs=AOn4CLDew4-Le7KeFMIwgjuMPn38kK-veA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IF8ocjAP&rs=AOn4CLD8KvuFpybwU1lsQ6bZ5u4nuz6f_w",
+            "width": 336
+          }
+        ],
+        "title": "Refuerzo python Diccionarios",
+        "videoId": "A5YXQgZwARs"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 4415,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 30
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&rs=AOn4CLCmIfqHeWFymldx7IOjUOZgSY7wbw",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&rs=AOn4CLCkq66LVfuCp--wYUVc0FBeqvXkAQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBUofzAP&rs=AOn4CLAC7eah8SisR8Z8WCot0BcL2KYgJw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBUofzAP&rs=AOn4CLABP6AMUETyiadFfk3GBRJcYsurOQ",
+            "width": 336
+          }
+        ],
+        "title": "Python 30-06-2023",
+        "videoId": "8suWl2YZzsg"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "badges": [],
+        "isLiveNow": false,
+        "lengthSeconds": 4796,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/Ry4IelqXES4/mqdefault_6s.webp?du=3000&sqp=CJ6xqacG&rs=AOn4CLA6R9ZlMC4zEdJIbRHaV1l8E8FINg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+          "views": 79
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEkgXChlMA8=&rs=AOn4CLAnJGZP2CS2Ngljqy3Q92ntKIWTwA",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEkgXChlMA8=&rs=AOn4CLBgIBxDIudPFR7Tb10kHz4G9sUI3g",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIFwoZTAP&rs=AOn4CLAbkgl7W2KTxh0S-uqcHaRr3iPTCg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIFwoZTAP&rs=AOn4CLBoCo2rJPN4N2AwDzjV_KXm9d986Q",
+            "width": 336
+          }
+        ],
+        "title": "python Fifa 02",
+        "videoId": "Ry4IelqXES4"
+      }
+    }
+  ]
+}

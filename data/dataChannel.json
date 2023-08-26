@@ -1,0 +1,127 @@
+{
+  "artistBio": null,
+  "avatar": [
+    {
+      "height": 48,
+      "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s48-c-k-c0x00ffffff-no-rj",
+      "width": 48
+    },
+    {
+      "height": 88,
+      "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s88-c-k-c0x00ffffff-no-rj",
+      "width": 88
+    },
+    {
+      "height": 176,
+      "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s176-c-k-c0x00ffffff-no-rj",
+      "width": 176
+    }
+  ],
+  "badges": [],
+  "banner": {
+    "desktop": [
+      {
+        "height": 175,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 1060
+      },
+      {
+        "height": 188,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 1138
+      },
+      {
+        "height": 283,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 1707
+      },
+      {
+        "height": 351,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 2120
+      },
+      {
+        "height": 377,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 2276
+      },
+      {
+        "height": 424,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "width": 2560
+      }
+    ],
+    "mobile": [
+      {
+        "height": 88,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w320-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+        "width": 320
+      },
+      {
+        "height": 175,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+        "width": 640
+      },
+      {
+        "height": 263,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w960-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+        "width": 960
+      },
+      {
+        "height": 351,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1280-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+        "width": 1280
+      },
+      {
+        "height": 395,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1440-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+        "width": 1440
+      }
+    ],
+    "tv": [
+      {
+        "height": 180,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w320-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "width": 320
+      },
+      {
+        "height": 480,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w854-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "width": 854
+      },
+      {
+        "height": 720,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1280-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "width": 1920
+      },
+      {
+        "height": 1192,
+        "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "width": 2120
+      }
+    ]
+  },
+  "canonicalBaseUrl": "/@creativecode787",
+  "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
+  "country": "Colombia",
+  "description": "",
+  "hasBusinessEmail": false,
+  "joinedDate": "2020-06-29",
+  "joinedDateText": "Joined Jun 29, 2020",
+  "keywords": ["Uniy3D", "C#", "Programacion"],
+  "links": [],
+  "stats": {
+    "subscribers": 491,
+    "subscribersText": "491 subscribers",
+    "videos": 419,
+    "videosText": "419 videos",
+    "views": 34928
+  },
+  "title": "CreativeCode",
+  "username": "@creativecode787"
+}
