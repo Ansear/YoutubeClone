@@ -1,0 +1,14 @@
+{
+  "name": "youtubecopy",
+  "version": "1.0.0",
+  "description": "Clone de youtube Con api",
+  "main": "src/index.html",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Sebastian Arciniegas",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
