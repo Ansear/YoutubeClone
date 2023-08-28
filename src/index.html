@@ -9,68 +9,41 @@
     <title>Youtube</title>
 </head>
 <body>
-    <header>
-        <nav class="flex items-center p-[10px_2%] justify-between shadow-[0_0_10px_rgba(0,0,0,0.2)] bg-[#fff] sticky top-0 z-10">
-            <div class="nav-left flex items-center">
-                <img class="w-5 mr-6 h-5" src="../images/menu.png" id="MenuIcon">
-                <img class="w-16 " src="../images/youtube.png" alt="">
+    <nav class="flex items-center p-[10px_2%] justify-between shadow-[0_0_10px_rgba(0,0,0,0.2)] bg-[#fff] static top-0 z-10">
+        <div class="nav-left flex items-center">
+            <button class="w-5 mr-6 h-5" src="../images/menu.png" id="menuDes">Hola</button>
+            <img class="w-16 " src="../images/youtube.png" alt="">
+        </div>
+        <div class="flex items-center">
+            <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] ">
+                <input class="rounded-none w-96 outline-none" type="text" placeholder="Search">
+                <img class="w-4" src="../images/search.png" alt="">
             </div>
-            <div class="flex items-center">
-                <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] ">
-                    <input class="rounded-none w-96 outline-none" type="text" placeholder="Search">
-                    <img class="w-4" src="../images/search.png" alt="">
-                </div>
-                <img class="w-5" src="../images/voice-search.png" alt="">
-            </div>
-            <div class="flex items-center">
-                <img class="w-6 mr-6" src="../images/upload.png" alt="">
-                <img class="w-6 mr-6" src="../images/more.png" alt="">
-                <img class="w-6 mr-6" src="../images/notification.png" alt="">
-                <img class="w-9 mr-0 rounded-full" src="../images/Jack.png" alt="">
-            </div>
-        </nav>
-        <aside class="bg-white  h-screen fixed
-        top-0 pl-[2%] pt-[80px] border-solid z-0" id="sidebar">
-            <div class="mt-2 " id="shortcut-links ">
-                <a class="flex items-center mb-5 w-fit flex-wrap text-[#ed3833]" id="af" href="#"><img class="w-5 mr-5" src="../images/home.png" alt=""><p class="" id="it">Home</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/explore.png" alt=""><p id="it">Explore</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/subscriprion.png" alt=""><p id="it">Subscrition</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/library.png" alt=""><p id="it">Library</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/history.png" alt=""><p id="it">History</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/playlist.png" alt=""><p id="it">Playlist</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/messages.png" alt=""><p id="it">Messages</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/show-more.png" alt=""><p id="it">Show More</p></a>
-                <hr class="border-none h-[1px] bg-[#CCC] w-[85%]" id="hrI">
-            </div >
-            <div class="">
-                <h3 class="text-xs my-[20px] mx-0 text-[#5a5a5a]" id="titleS">SUBSCRIBED</h3>
-                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/Jack.png" alt=""><p>Jack Nicholson</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/simon.png" alt=""><p>Simon Baker</p></a>
-                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/tom.png" alt=""><p>Tom Hardy</p></a>
-            </div>
-        </aside>
-    </header>
-    <main>
-        <div class="bg-[#f9f9f9] p-[20px_2%_20px_15%]" id="container">
-            <div class="w-full">
-                <img class="w-full border-lg" src="../images/banner.png" alt="banner">
-            </div>
-            <div class="grid grid-cols-[auto-fit_minmax(250px,1fr)] gap-x-4 gap-y-7 mt-4 " >
-                <div >
-                    <a href=""><img class="w-full rounded-xl" src="../images/thumbnail1.png" alt=""></a>
-                    <div class="flex items-start mt-2">
-                        <img class="w-9 mr-3 rounded-3xl" src="../images/Jack.png" alt="">
-                        <div class="text-[#5a5a5a] text-xs block mb-1">
-                            <a class="text-black" href="">Best Channel to learn coding that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k Views &bull; 2 days</p>
-                        </div>
+            <img class="w-5" src="../images/voice-search.png" alt="">
+        </div>
+        <div class="flex items-center">
+            <img class="w-6 mr-6" src="../images/upload.png" alt="">
+            <img class="w-6 mr-6" src="../images/more.png" alt="">
+            <img class="w-6 mr-6" src="../images/notification.png" alt="">
+            <img class="w-9 mr-0 rounded-full" src="../images/Jack.png" alt="">
+        </div>
+    </nav>
 
-                    </div>
+    <main>
+        <aside class="w-16 bg-red-800">
+            <div>
+                <div>
+                    <div><img src="../images/home.png" alt=""><span class="textI">Home</span></div>
+                    <div><img src="" alt=""><span class="textI">Subscription</span></div>
+                    <div><img src="" alt=""><span class="textI">Library</span></div>
+                    <div><img src="" alt=""><span class="textI">History</span></div>
+                    <div><img src="" alt=""><span class="textI">Your Videos</span></div>
+                    <div><img src="" alt=""><span class="textI">Watch Later</span></div>
+                    <div><img src="" alt=""><span class="textI">Liked Videos</span></div>
                 </div>
                 
             </div>
-        </div>
+        </aside>
     </main>
 </body>
 </html>
