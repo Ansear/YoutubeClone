@@ -55,6 +55,7 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
     let res = await peticion.json()
     let deta = document.querySelector("#details")
     let chanel = document.querySelector("#channel")
+    let des = document.querySelector("#descrip")
     deta.insertAdjacentHTML("beforeend",
         /*html */`
         <h3 class="text-xl font-semibold">${res.title}</h3>
@@ -78,11 +79,14 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
         <button class="bg-red-600 text-white py-2 px-8 border-none outline-[0] rounded-3xl cursor-pointer " type="submit">Subscribe</button>
     </div>
     `)
+
+    des.insertAdjacentHTML("afterend",/*html*/`
+        <p class="text-sm mb-1 text-[#5a5a5a]">${dataChannel.description}</p>
+    `)
     
 })();
 console.log(dataChannel)
 
 /*html*/`
-<p class="text-sm mb-1 text-[#5a5a5a]">Channel that makes learning easy</p>
-<p class="text-sm mb-1 text-[#5a5a5a]">Subscribe Easy Tutorials to watch more Tutorials on web Development</p>
+
 `
