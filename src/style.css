@@ -9,8 +9,3 @@
         display: none;
     }
 }
-@media (min-width: 810px) {
-    #sidebar{
-        width: 15%;
-    }
-}
