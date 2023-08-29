@@ -1,0 +1,92 @@
+{
+"author": {
+    "avatar": [
+    {
+        "height": 48,
+        "url": "https://yt3.ggpht.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s48-c-k-c0x00ffffff-no-rj",
+        "width": 48
+    },
+    {
+        "height": 88,
+        "url": "https://yt3.ggpht.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88
+    },
+    {
+        "height": 176,
+        "url": "https://yt3.ggpht.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s176-c-k-c0x00ffffff-no-rj",
+        "width": 176
+    }
+    ],
+    "badges": [],
+    "canonicalBaseUrl": "/@creativecode787",
+    "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
+    "stats": {
+    "subscribers": 495,
+    "subscribersText": "495 subscribers"
+    },
+    "title": "CreativeCode"
+},
+"captions": [
+    {
+    "language": {
+        "code": "es",
+        "name": "Spanish (auto-generated)"
+    },
+    "url": "https://www.youtube.com/api/timedtext?v=izvodnnCvt0&ei=GEXuZOjbCpCs_9EPwom--As&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1693362056&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=63CBB62B67C71BA029BC72ABED9434E1B25C01B0.5A453DB6ADB2F13A0A18DE784B326F6AF23DC536&key=yt8&kind=asr&lang=es"
+    }
+],
+"cards": [
+    null
+],
+"category": "People & Blogs",
+"chapters": [],
+"description": "Arquitectura Aplicacion/Persistencia/Dominio/Aplicacion",
+"endScreen": {
+    "items": []
+},
+"isLiveContent": false,
+"isLiveNow": false,
+"keywords": [],
+"lengthSeconds": 4135,
+"musics": [],
+"publishedDate": "2023-07-31",
+"stats": {
+    "comments": null,
+    "likes": 3,
+    "views": 138
+},
+"superTitle": {
+    "items": [
+    "NetCoreBootcamp"
+    ]
+},
+"thumbnails": [
+    {
+    "height": 94,
+    "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCcHFEFkBC_SiSvKUkmkvjKnCYzOA",
+    "width": 168
+    },
+    {
+    "height": 110,
+    "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQaM6nZpCvuIoDPMhrGTyhA02X0A",
+    "width": 196
+    },
+    {
+    "height": 138,
+    "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAsm1NkTZfKeF2HnmzCVPTdnSmqeg",
+    "width": 246
+    },
+    {
+    "height": 188,
+    "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAIRAwsqBGiL2SiwdKlFQYmuTFqag",
+    "width": 336
+    },
+    {
+    "height": 1080,
+    "url": "https://i.ytimg.com/vi/izvodnnCvt0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBA-8stzyletxfkIxidQ5rAuiM8Xw",
+    "width": 1920
+    }
+],
+"title": "WebApi NetCore Part22",
+"videoId": "izvodnnCvt0"
+}

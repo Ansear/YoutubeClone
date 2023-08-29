@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="output.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Channel</title>
+</head>
+<body>
+    <nav class="flex sticky items-center p-[10px_2%] justify-between shadow-[0_0_10px_rgba(0,0,0,0.2)] bg-[#fff] top-0 z-10">
+        <div class="nav-left flex items-center">
+            <img class="w-5 mr-6 h-5 lg:block sm:hidden" src="../images/menu.png" id="MenuIcon">
+            <img class="lg:w-16 sm:w-8" src="../images/youtube.png" alt="">
+        </div>
+        <div class="flex items-center">
+            <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] sm:w-40 md:w-auto">
+                <input class="rounded-none md:w-96 outline-none sm:w-28" type="text" placeholder="Search">
+                <img class="w-4 " src="../images/search.png" alt="">
+            </div>
+            <img class="w-5 sm:hidden lg:block" src="../images/voice-search.png" alt="">
+        </div>
+        <div class="flex items-center">
+            <img class="w-6 mr-6 sm:hidden md:block" src="../images/upload.png" alt="">
+            <img class="w-6 mr-6 sm:hidden md:block" src="../images/more.png" alt="">
+            <img class="w-6 mr-6 sm:hidden md:block" src="../images/notification.png" alt="">
+            <img class="lg:w-9 mr-0 rounded-full sm:block sm:w-8" src="../images/Jack.png" alt="">
+        </div>
+    </nav>
+    <aside class="bg-white h-screen lg:fixed  top-0 pl-[2%] pt-[75px] border-solid z-0" id="sidebar">
+            <div class="mt-2 " id="shortcut-links ">
+                <a class="flex items-center mb-5 w-fit flex-wrap text-[#ed3833]" id="af" href="#"><img class="w-5 mr-5" src="../images/home.png" alt=""><p class="" id="it">Home</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/explore.png" alt=""><p id="it">Explore</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/subscriprion.png" alt=""><p id="it">Subscrition</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/library.png" alt=""><p id="it">Library</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/history.png" alt=""><p id="it">History</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/playlist.png" alt=""><p id="it">Playlist</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/messages.png" alt=""><p id="it">Messages</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" id="af" href="#"><img class="w-5 mr-5" src="../images/show-more.png" alt=""><p id="it">Show More</p></a>
+                <hr class="border-none h-[1px] bg-[#CCC] w-[85%]" id="hrI">
+            </div >
+            <div class="">
+                <h3 class="text-xs my-[20px] mx-0 text-[#5a5a5a]" id="titleS">SUBSCRIBED</h3>
+                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/Jack.png" alt=""><p>Jack Nicholson</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/simon.png" alt=""><p>Simon Baker</p></a>
+                <a class="flex items-center mb-5 w-fit flex-wrap" href=""><img class="w-6 rounded-3xl mr-5" src="../images/tom.png" alt=""><p>Tom Hardy</p></a>
+            </div>
+    </aside>
+    
+</body>
+</html>
