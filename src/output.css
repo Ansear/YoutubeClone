@@ -562,14 +562,8 @@ video {
   }
 }
 
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px;
-  }
-}
-
-.fixed {
-  position: fixed;
+.absolute {
+  position: absolute;
 }
 
 .sticky {
@@ -681,6 +675,10 @@ video {
   display: block;
 }
 
+.inline {
+  display: inline;
+}
+
 .flex {
   display: flex;
 }
@@ -695,6 +693,10 @@ video {
 
 .contents {
   display: contents;
+}
+
+.hidden {
+  display: none;
 }
 
 .h-5 {
@@ -762,6 +764,10 @@ video {
   width: 15%;
 }
 
+.w-\[440px\] {
+  width: 440px;
+}
+
 .flex-\[1\] {
   flex: 1;
 }
@@ -816,6 +822,14 @@ video {
   row-gap: 1.75rem;
 }
 
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -841,6 +855,10 @@ video {
 }
 
 .border-\[1px\] {
+  border-width: 1px;
+}
+
+.border {
   border-width: 1px;
 }
 
@@ -895,12 +913,44 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\$\] {
+  background-color: $;
+}
+
+.bg-\[\#\] {
+  background-color: #;
+}
+
 .p-\[10px_2\%\] {
   padding: 10px 2%;
 }
 
 .p-\[8px_12px\] {
   padding: 8px 12px;
+}
+
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[10px_\] {
+  padding: 10px;
+}
+
+.p-\[10px_0px_10px\] {
+  padding: 10px 0px 10px;
+}
+
+.p-\[10px_0px_10px_\] {
+  padding: 10px 0px 10px;
+}
+
+.p-\[10px_0px_10px_15px\] {
+  padding: 10px 0px 10px 15px;
 }
 
 .px-8 {
@@ -981,6 +1031,18 @@ video {
 .shadow-\[0_0_10px_rgba\(0\2c 0\2c 0\2c 0\.2\)\] {
   --tw-shadow: 0 0 10px rgba(0,0,0,0.2);
   --tw-shadow-colored: 0 0 10px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.shadow-\[0_35px_60px_-15px_rgba\(0\2c 0\2c 0\2c 0\.3\)\] {
+  --tw-shadow: 0 35px 60px -15px rgba(0,0,0,0.3);
+  --tw-shadow-colored: 0 35px 60px -15px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.shadow-\[1px_1px_5px_2px_rgba\(105\2c 105\2c 105\2c 1\)\] {
+  --tw-shadow: 1px 1px 5px 2px rgba(105,105,105,1);
+  --tw-shadow-colored: 1px 1px 5px 2px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 

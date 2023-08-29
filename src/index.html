@@ -10,14 +10,21 @@
 </head>
 <body>
     <nav class="flex sticky items-center p-[10px_2%] justify-between shadow-[0_0_10px_rgba(0,0,0,0.2)] bg-[#fff] top-0 z-10">
-        <div class="nav-left flex items-center">
+        <div class="flex items-center">
             <img class="w-5 mr-6 h-5 lg:block sm:hidden" src="../images/menu.png" id="MenuIcon">
             <img class="lg:w-16 sm:w-8" src="../images/youtube.png" alt="">
         </div>
         <div class="flex items-center">
-            <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] sm:w-40 md:w-auto">
-                <input class="rounded-none md:w-96 outline-none sm:w-28" type="text" placeholder="Search">
+            <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] sm:w-40 md:w-auto" id="boxSearch">
+                <input class="rounded-none md:w-96 outline-none sm:w-28" type="text" placeholder="Search" id="chatSearch">
                 <img class="w-4 " src="../images/search.png" alt="">
+            </div>
+            <div class="flex flex-col w-full" id="resultOut">
+                <div class="w-[440px] p-[10px_0px_10px_15px] absolute z-10 bg-[#f9f9f9] overflow-y-auto shadow-[1px_1px_5px_2px_rgba(105,105,105,1)]" id="divOut">
+                    <ol id="out">
+                        <li><img src="" alt=""></li>
+                    </ol>
+                </div>
             </div>
             <img class="w-5 sm:hidden lg:block" src="../images/voice-search.png" alt="">
         </div>
