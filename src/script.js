@@ -1,5 +1,4 @@
 let menu = document.querySelector("#MenuIcon")
-let dataChannel = {};
 //funcionalidad del sidebar menu
 let side = document.querySelector("#sidebar")
 let hr = document.querySelector("#hrI")
@@ -14,6 +13,7 @@ menu.addEventListener("click",()=>{
 });
 
 //Funcionalidad para traerme la info del canal
+let dataChannel = {};
 (async()=>{
     let peti = await fetch("../data/dataChannel.json");
     dataChannel = await peti.json();

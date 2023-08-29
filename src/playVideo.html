@@ -5,13 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../src/style.css">
     <link href="output.css" rel="stylesheet">   
+    <script src="./play.js" defer></script>
     <title>Play video - Easy Tutorials Youtube Channel</title>
 </head>
 <body>
     <nav class="flex sticky items-center p-[10px_2%] justify-between shadow-[0_0_10px_rgba(0,0,0,0.2)] bg-[#fff] top-0 z-10">
             <div class="nav-left flex items-center">
                 <img class="w-5 mr-6 h-5 lg:block sm:hidden" src="../images/menu.png" id="MenuIcon">
-                <img class="lg:w-16 sm:w-8" src="../images/youtube.png" alt="">
+                <a href="./index.html" class="lg:w-16 sm:w-8">
+                    <img class="lg:w-16 sm:w-8" src="../images/youtube.png" alt="">
+                </a>
             </div>
             <div class="flex items-center">
                 <div class="flex items-center border-solid border-[1px] border-[#CCC] rounded-3xl mr-4 p-[8px_12px] sm:w-40 md:w-auto">
@@ -30,8 +33,8 @@
 
         <div class="bg-[#f9f9f9] lg:p-[20px_2%_20px_2%] sm:px-[5%] ">
             <div class="flex justify-between flex-wrap">
-                <div class="sm:basis-full lg:basis-[69%]">
-                    <iframe class="w-full sm:h-56 md:h-96 lg:h-96" width="560"  src="https://www.youtube.com/embed/4ykAepVkG5Y?si=3bJqrOw8u9xBMcgJ" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
+                <div class="sm:basis-full lg:basis-[69%]"id="contVideo">
+                    
 
                     <div>
                         <a class="text-[#0000ff] text-xs" href="">#Coding</a>
@@ -71,77 +74,8 @@
 
                     </div>
                 </div>
-                <div class="sm:basis-full lg:basis-[30%]">
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
-                    <div class="flex justify-between mb-2">
-                        <a class="basis-[49%]" href="">
-                            <img class="w-full" src="../images/thumbnail1.png" alt="">
-                        </a>
-                        <div class="basis-[49%] text-[#5a5a5a] sm:text-xl lg:text-xs block mb-1">
-                            <a class="text-black" href="">Best channel that help you to be a web developer</a>
-                            <p>Easy Tutorials</p>
-                            <p>15k views</p>
-                        </div>
-                    </div>
+                <div class="sm:basis-full lg:basis-[30%]" id="containerVideos">
+                    
                 </div>
             </div>
         </div>

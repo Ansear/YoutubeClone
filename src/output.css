@@ -695,10 +695,6 @@ video {
   display: contents;
 }
 
-.hidden {
-  display: none;
-}
-
 .h-5 {
   height: 1.25rem;
 }
@@ -747,6 +743,10 @@ video {
   width: 2.25rem;
 }
 
+.w-\[440px\] {
+  width: 440px;
+}
+
 .w-\[85\%\] {
   width: 85%;
 }
@@ -758,14 +758,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[15\%\] {
-  width: 15%;
-}
-
-.w-\[440px\] {
-  width: 440px;
 }
 
 .flex-\[1\] {
@@ -826,14 +818,6 @@ video {
   overflow-y: auto;
 }
 
-.overflow-y-hidden {
-  overflow-y: hidden;
-}
-
-.rounded {
-  border-radius: 0.25rem;
-}
-
 .rounded-3xl {
   border-radius: 1.5rem;
 }
@@ -855,10 +839,6 @@ video {
 }
 
 .border-\[1px\] {
-  border-width: 1px;
-}
-
-.border {
   border-width: 1px;
 }
 
@@ -913,16 +893,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[\] {
-  background-color: ;
-}
-
-.bg-\[\$\] {
-  background-color: $;
-}
-
-.bg-\[\#\] {
-  background-color: #;
+.p-\[10px_0px_10px_15px\] {
+  padding: 10px 0px 10px 15px;
 }
 
 .p-\[10px_2\%\] {
@@ -931,26 +903,6 @@ video {
 
 .p-\[8px_12px\] {
   padding: 8px 12px;
-}
-
-.p-\[\] {
-  padding: ;
-}
-
-.p-\[10px_\] {
-  padding: 10px;
-}
-
-.p-\[10px_0px_10px\] {
-  padding: 10px 0px 10px;
-}
-
-.p-\[10px_0px_10px_\] {
-  padding: 10px 0px 10px;
-}
-
-.p-\[10px_0px_10px_15px\] {
-  padding: 10px 0px 10px 15px;
 }
 
 .px-8 {
@@ -1034,12 +986,6 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.shadow-\[0_35px_60px_-15px_rgba\(0\2c 0\2c 0\2c 0\.3\)\] {
-  --tw-shadow: 0 35px 60px -15px rgba(0,0,0,0.3);
-  --tw-shadow-colored: 0 35px 60px -15px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
 .shadow-\[1px_1px_5px_2px_rgba\(105\2c 105\2c 105\2c 1\)\] {
   --tw-shadow: 1px 1px 5px 2px rgba(105,105,105,1);
   --tw-shadow-colored: 1px 1px 5px 2px var(--tw-shadow-color);
@@ -1080,14 +1026,6 @@ video {
     width: 2rem;
   }
 
-  .sm\:w-\[5\%\] {
-    width: 5%;
-  }
-
-  .sm\:w-\[15\%\] {
-    width: 15%;
-  }
-
   .sm\:basis-full {
     flex-basis: 100%;
   }
@@ -1120,16 +1058,12 @@ video {
     width: 24rem;
   }
 
-  .md\:w-auto {
-    width: auto;
-  }
-
   .md\:w-\[5\%\] {
     width: 5%;
   }
 
-  .md\:w-2\/6 {
-    width: 33.333333%;
+  .md\:w-auto {
+    width: auto;
   }
 }
 
@@ -1156,10 +1090,6 @@ video {
 
   .lg\:w-9 {
     width: 2.25rem;
-  }
-
-  .lg\:w-\[5\%\] {
-    width: 5%;
   }
 
   .lg\:basis-\[30\%\] {
