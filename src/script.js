@@ -16,7 +16,7 @@ menu.addEventListener("click",()=>{
 async function funcionDataC(){ 
     let peti = await fetch("../data/dataChannel.json");
     let dataChannel = await peti.json();
-    return dataChannel
+    return await dataChannel
 }
 
 //Funcionalidad para cargar videos en la vista home
@@ -56,7 +56,8 @@ async function funcionDataC(){
     let peticion = await fetch("../data/dataVideos.json");
     let res = await peticion.json();
     let dataChannel = await funcionDataC()
-    document.querySelector("#chatSearch").addEventListener("change", (e)=>{
+    let search = document.querySelector("#chatSearch")
+    search.addEventListener("change", (e)=>{
         if(e.target.value){
             document.querySelector("#boxSearch").style.borderRadius = "15px";
             document.querySelector("#resultOut").style.display = "none";

@@ -1,9 +1,3 @@
-(async()=>{
-    let peticion = await fetch("../data/dataVideoDetail.json");
-    let res = await peticion.json();
-
-})();
-
 //Funcionalidad para traerme la info del canal
 async function funcionDataC(){ 
     let peti = await fetch("../data/dataChannel.json");
