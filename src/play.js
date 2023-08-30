@@ -77,9 +77,11 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
     )
     chanel.insertAdjacentHTML("beforeend",/*html*/`
     <div class="flex w-full">
+        <a href="./channel.html">
         <img class=" rounded-3xl mr-4" src=${dataChannel.avatar[0].url} >
+        </a>
         <div class="flex-[1]">
-            <p class="text-black font-semibold text-lg">${dataChannel.title}</p>
+        <a href="./channel.html"><p class="text-black font-semibold text-lg">${dataChannel.title}</p></a>
             <span class="text-xs text-[#5a5a5a]">${dataChannel.stats.subscribers} Subscribers</span>
         </div>
         <button class="bg-red-600 text-white py-2 px-8 border-none outline-[0] rounded-3xl cursor-pointer " type="submit">Subscribe</button>
