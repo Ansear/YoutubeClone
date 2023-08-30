@@ -1,8 +1,16 @@
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '336d3c2699msh531eb879ce2e8cep17f231jsn02286e20b027',
+		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
+	}
+};
 //Funcionalidad para traerme la info del canal
 async function funcionDataC(){ 
-    let peti = await fetch("../data/dataChannel.json");
+    options.method = 'GET';
+    let peti = await fetch("https://youtube138.p.rapidapi.com/channel/details/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US",options);
     let dataChannel = await peti.json();
-    return await dataChannel
+    return dataChannel
 }
 
 //Funcionalidad para pintar la info del canal
@@ -35,7 +43,8 @@ async function funcionDataC(){
 
 //Funcionalidad para cargar videos en la vista home
 (async()=>{ 
-    let peticion = await fetch("../data/dataVideos.json");
+    options.method = 'GET';
+    let peticion = await fetch("https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US",options);
     let res = await peticion.json();
     let dataChannel = await funcionDataC()
     //contenedor de videos 

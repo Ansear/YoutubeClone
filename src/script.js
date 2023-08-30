@@ -1,3 +1,4 @@
+
 let menu = document.querySelector("#MenuIcon")
 //funcionalidad del sidebar menu
 let side = document.querySelector("#sidebar")
@@ -18,11 +19,19 @@ async function funcionDataC(){
     let dataChannel = await peti.json();
     return await dataChannel
 }
-
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '336d3c2699msh531eb879ce2e8cep17f231jsn02286e20b027',
+		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
+	}
+};
 //Funcionalidad para cargar videos en la vista home
 (async()=>{ 
-    let peticion = await fetch("../data/dataVideos.json");
+    options.method = 'GET';
+    let peticion = await fetch("https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US",options);
     let res = await peticion.json();
+    console.log(res)
     let dataChannel = await funcionDataC()
     //contenedor de videos 
     let conta = document.querySelector("#containerVideo");
@@ -49,11 +58,12 @@ async function funcionDataC(){
             localStorage.setItem("ID VIDEO", idV);
         })
     })
-})();
-
+})(options);
+console.log(elementStorage)
 //Funcionalidades para las sugerencias del buscador
 (async()=>{
-    let peticion = await fetch("../data/dataVideos.json");
+    options.method = 'GET';
+    // let peticion = await fetch("https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US",options);
     let res = await peticion.json();
     let dataChannel = await funcionDataC()
     let search = document.querySelector("#chatSearch")
