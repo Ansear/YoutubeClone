@@ -91,8 +91,3 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
     `)
     
 })(elementStorage);
-
-
-/*html*/`
-
-`
