@@ -5,16 +5,17 @@
 })();
 
 //Funcionalidad para traerme la info del canal
-let dataChannel = {};
-(async()=>{ 
+async function funcionDataC(){ 
     let peti = await fetch("../data/dataChannel.json");
-    dataChannel = await peti.json();
-})();
+    let dataChannel = await peti.json();
+    return dataChannel
+}
 
 //Funcionalidad para cargar videos en la vista home
 (async()=>{ 
     let peticion = await fetch("../data/dataVideos.json");
     let res = await peticion.json();
+    let dataChannel = await funcionDataC()
     //contenedor de videos 
     let container = document.querySelector("#containerVideos");
     container.insertAdjacentHTML("beforeend",/*html*/`
@@ -53,6 +54,7 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
 (async()=>{
     let peticion = await fetch("../data/dataVideoDetail.json")
     let res = await peticion.json()
+    let dataChannel = await funcionDataC()
     let deta = document.querySelector("#details")
     let chanel = document.querySelector("#channel")
     let des = document.querySelector("#descrip")
@@ -85,7 +87,7 @@ fra.insertAdjacentHTML("afterbegin",/*html*/`
     `)
     
 })();
-console.log(dataChannel)
+
 
 /*html*/`
 

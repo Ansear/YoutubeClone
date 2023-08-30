@@ -13,16 +13,17 @@ menu.addEventListener("click",()=>{
 });
 
 //Funcionalidad para traerme la info del canal
-let dataChannel = {};
-(async()=>{
+async function funcionDataC(){ 
     let peti = await fetch("../data/dataChannel.json");
-    dataChannel = await peti.json();
-})();
+    let dataChannel = await peti.json();
+    return dataChannel
+}
 
 //Funcionalidad para cargar videos en la vista home
 (async()=>{ 
     let peticion = await fetch("../data/dataVideos.json");
     let res = await peticion.json();
+    let dataChannel = await funcionDataC()
     //contenedor de videos 
     let conta = document.querySelector("#containerVideo");
     conta.insertAdjacentHTML("beforeend",/*html*/`
@@ -54,6 +55,7 @@ let dataChannel = {};
 (async()=>{
     let peticion = await fetch("../data/dataVideos.json");
     let res = await peticion.json();
+    let dataChannel = await funcionDataC()
     document.querySelector("#chatSearch").addEventListener("change", (e)=>{
         if(e.target.value){
             document.querySelector("#boxSearch").style.borderRadius = "15px";
