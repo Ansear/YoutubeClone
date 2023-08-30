@@ -12,13 +12,6 @@ menu.addEventListener("click",()=>{
     hr.classList.toggle("mb-6");
     cont.classList.toggle("lg:p-[20px_2%_20px_7%]");
 });
-
-//Funcionalidad para traerme la info del canal
-async function funcionDataC(){ 
-    let peti = await fetch("../data/dataChannel.json");
-    let dataChannel = await peti.json();
-    return await dataChannel
-}
 const options = {
 	method: 'GET',
 	headers: {
@@ -26,6 +19,14 @@ const options = {
 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
 	}
 };
+//Funcionalidad para traerme la info del canal
+async function funcionDataC(){ 
+    options.method = 'GET';
+    let peti = await fetch("https://youtube138.p.rapidapi.com/channel/details/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US",options);
+    let dataChannel = await peti.json();
+    return dataChannel
+}
+
 //Funcionalidad para cargar videos en la vista home
 (async()=>{ 
     options.method = 'GET';
